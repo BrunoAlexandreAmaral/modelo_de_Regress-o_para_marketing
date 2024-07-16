@@ -1,0 +1,2 @@
+# modelo_de_Regress-o_para_marketing
+modelo_de_Regressão_para_marketing
